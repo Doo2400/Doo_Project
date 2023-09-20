@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c59630c9c9e10479f965b3cec2cfdb, type: 3}
+  m_Name: MoonSword_Red
+  m_EditorClassIdentifier: 
+  itemName: MoonSword_Red
+  itemImage: {fileID: 21300000, guid: e2890aa214e90a54b82d0fc159f79402, type: 3}
+  itemType: 0
+  hpRecoveryAmount: 0
+  bulletAmount: 0
+  itemShape3D: {fileID: 881307464997301307, guid: bc4ac0b4655510e4aaeca017cba9830b,
+    type: 3}
+  weaponType: 0
+  weaponDamage: 60
+  weaponFireRate: 0.8
+  weaponReloadingDelay: 0
+  weaponRecoil: 0
+  maxAmmo: 0
